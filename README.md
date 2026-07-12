@@ -106,22 +106,32 @@
 - СКД (Система компоновки данных)
 - Динамические списки
 
- ## Скриншоты системы:
+## Скриншоты системы:
 
 *Нажмите на изображение для увеличения*
 
-<a href="https://github.com/user-attachments/assets/9ab83e3c-5714-4c80-8af2-15a1eee742ee" target="_blank">
-  <img src="https://github.com/user-attachments/assets/9ab83e3c-5714-4c80-8af2-15a1eee742ee" width="300" hspace="5">
+<a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank">
+  <img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="300" style="margin: 5px;">
 </a>
-<a href="https://github.com/user-attachments/assets/bb4bf8c2-c058-44ef-87bb-be948dd37b35" target="_blank">
-  <img src="https://github.com/user-attachments/assets/bb4bf8c2-c058-44ef-87bb-be948dd37b35" width="300" hspace="5">
+<a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="300" style="margin: 5px;">
 </a>
-<a href="https://github.com/user-attachments/assets/4eb9b339-e813-4cdd-857d-36bd377705d2" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4eb9b339-e813-4cdd-857d-36bd377705d2" width="300" hspace="5">
+<a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="300" style="margin: 5px;">
 </a>
-<a href="https://github.com/user-attachments/assets/eb0c8aa6-d06a-4255-8bd2-59965b8578ec" target="_blank">
-  <img src="https://github.com/user-attachments/assets/eb0c8aa6-d06a-4255-8bd2-59965b8578ec" width="300" hspace="5">
-</a> 
+<a href="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" width="300" style="margin: 5px;">
+</a>
+<a href="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" target="_blank">
+  <img src="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" width="300" style="margin: 5px;">
+</a>
+<a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank">
+  <img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="300" style="margin: 5px;">
+</a>
+<a href="https://github.com/user-attachments/assets/854618b6-e097-400c-af0a-07978facbb27" target="_blank">
+  <img src="https://github.com/user-attachments/assets/854618b6-e097-400c-af0a-07978facbb27" width="300" style="margin: 5px;">
+</a>
+
 
 
 ## 👨‍💻 Разработчик
