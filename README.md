@@ -106,17 +106,24 @@
 - СКД (Система компоновки данных)
 - Динамические списки
 
-  
-## Скриншоты системы:
-<img width="1072" height="893" alt="6-4YL_2PFwK87YuehRYgK9RYVR_WIS1eAgCapbyDAi9hRjKy7WinaD6CFICquVBanV2ESvhO3ydjB6n37gX_BBa-" src="https://github.com/user-attachments/assets/9ab83e3c-5714-4c80-8af2-15a1eee742ee" />
+ ## Скриншоты системы:
 
-<img width="1058" height="1026" alt="kPEwYLDx0wOaKAmf3OqJjgPKXgDU9HjYgYuNP8gVU0THnEHFYkaiabZ_jj9TpknRdfMO4FikLHpn9ZFpEt_hkvRX" src="https://github.com/user-attachments/assets/bb4bf8c2-c058-44ef-87bb-be948dd37b35" />
-<img width="1069" height="1244" alt="GVlIgUTP9ZBb_fnsRIuDl5X_aPkYvAYUxHs2wIfQ7RSVg_NPSJ5bKMDo_dx2hfbXp4z-Xq0iGqOfa_ez8k8NXAA3" src="https://github.com/user-attachments/assets/4eb9b339-e813-4cdd-857d-36bd377705d2" />
-<img width="1064" height="1362" alt="BAwioHo4TXXwbAumqKTMJaoEpweuOZs4PC5ErWuEeU5dmi6B3JXoZlDVG5soZyMOwNIT20tesTpXUiVsBp6scXL0" src="https://github.com/user-attachments/assets/eb0c8aa6-d06a-4255-8bd2-59965b8578ec" />
+*Нажмите на изображение для увеличения*
+
+<a href="https://github.com/user-attachments/assets/9ab83e3c-5714-4c80-8af2-15a1eee742ee" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9ab83e3c-5714-4c80-8af2-15a1eee742ee" width="300" hspace="5">
+</a>
+<a href="https://github.com/user-attachments/assets/bb4bf8c2-c058-44ef-87bb-be948dd37b35" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bb4bf8c2-c058-44ef-87bb-be948dd37b35" width="300" hspace="5">
+</a>
+<a href="https://github.com/user-attachments/assets/4eb9b339-e813-4cdd-857d-36bd377705d2" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4eb9b339-e813-4cdd-857d-36bd377705d2" width="300" hspace="5">
+</a>
+<a href="https://github.com/user-attachments/assets/eb0c8aa6-d06a-4255-8bd2-59965b8578ec" target="_blank">
+  <img src="https://github.com/user-attachments/assets/eb0c8aa6-d06a-4255-8bd2-59965b8578ec" width="300" hspace="5">
+</a> 
 
 
-
-  
 ## 👨‍💻 Разработчик
 
 **Велет Алена**
