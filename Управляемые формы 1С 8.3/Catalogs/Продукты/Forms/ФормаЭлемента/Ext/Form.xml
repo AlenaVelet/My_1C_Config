@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<UseForFoldersAndItems>Items</UseForFoldersAndItems>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<ChildItems>
+		<UsualGroup name="Группа1" id="10">
+			<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="11"/>
+			<ChildItems>
+				<InputField name="Код" id="1">
+					<DataPath>Объект.Code</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="КодКонтекстноеМеню" id="2"/>
+					<ExtendedTooltip name="КодРасширеннаяПодсказка" id="3"/>
+				</InputField>
+				<LabelDecoration name="ДекорацияРазделительКодаИМожноПриготовить" id="12">
+					<Width>5</Width>
+					<ContextMenu name="ДекорацияРазделительКодаИМожноПриготовитьКонтекстноеМеню" id="13"/>
+					<ExtendedTooltip name="ДекорацияРазделительКодаИМожноПриготовитьРасширеннаяПодсказка" id="14"/>
+				</LabelDecoration>
+				<CheckBoxField name="МожноПриготовить" id="7">
+					<DataPath>Объект.МожноПриготовить</DataPath>
+					<TitleFont ref="style:NormalTextFont" faceName="Arial Black" kind="StyleItem" scale="100"/>
+					<TitleLocation>Right</TitleLocation>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="МожноПриготовитьКонтекстноеМеню" id="8"/>
+					<ExtendedTooltip name="МожноПриготовитьРасширеннаяПодсказка" id="9"/>
+				</CheckBoxField>
+			</ChildItems>
+		</UsualGroup>
+		<InputField name="Наименование" id="4">
+			<DataPath>Объект.Description</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<Table name="Ингредиенты" id="15">
+			<AutoInsertNewRow>true</AutoInsertNewRow>
+			<EnableStartDrag>true</EnableStartDrag>
+			<EnableDrag>true</EnableDrag>
+			<DataPath>Объект.Ингредиенты</DataPath>
+			<RowFilter xsi:nil="true"/>
+			<ContextMenu name="ИнгредиентыКонтекстноеМеню" id="16"/>
+			<AutoCommandBar name="ИнгредиентыКоманднаяПанель" id="17"/>
+			<ExtendedTooltip name="ИнгредиентыРасширеннаяПодсказка" id="18"/>
+			<SearchStringAddition name="ИнгредиентыСтрокаПоиска" id="19">
+				<AdditionSource>
+					<Item>Ингредиенты</Item>
+					<Type>SearchStringRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ИнгредиентыСтрокаПоискаКонтекстноеМеню" id="20"/>
+				<ExtendedTooltip name="ИнгредиентыСтрокаПоискаРасширеннаяПодсказка" id="21"/>
+			</SearchStringAddition>
+			<ViewStatusAddition name="ИнгредиентыСостояниеПросмотра" id="22">
+				<AdditionSource>
+					<Item>Ингредиенты</Item>
+					<Type>ViewStatusRepresentation</Type>
+				</AdditionSource>
+				<ContextMenu name="ИнгредиентыСостояниеПросмотраКонтекстноеМеню" id="23"/>
+				<ExtendedTooltip name="ИнгредиентыСостояниеПросмотраРасширеннаяПодсказка" id="24"/>
+			</ViewStatusAddition>
+			<SearchControlAddition name="ИнгредиентыУправлениеПоиском" id="25">
+				<AdditionSource>
+					<Item>Ингредиенты</Item>
+					<Type>SearchControl</Type>
+				</AdditionSource>
+				<ContextMenu name="ИнгредиентыУправлениеПоискомКонтекстноеМеню" id="26"/>
+				<ExtendedTooltip name="ИнгредиентыУправлениеПоискомРасширеннаяПодсказка" id="27"/>
+			</SearchControlAddition>
+			<ChildItems>
+				<LabelField name="ИнгредиентыНомерСтроки" id="28">
+					<DataPath>Объект.Ингредиенты.LineNumber</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ContextMenu name="ИнгредиентыНомерСтрокиКонтекстноеМеню" id="29"/>
+					<ExtendedTooltip name="ИнгредиентыНомерСтрокиРасширеннаяПодсказка" id="30"/>
+				</LabelField>
+				<InputField name="ИнгредиентыПродукт" id="31">
+					<DataPath>Объект.Ингредиенты.Продукт</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ИнгредиентыПродуктКонтекстноеМеню" id="32"/>
+					<ExtendedTooltip name="ИнгредиентыПродуктРасширеннаяПодсказка" id="33"/>
+				</InputField>
+				<InputField name="ИнгредиентыКоличество" id="34">
+					<DataPath>Объект.Ингредиенты.Количество</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ИнгредиентыКоличествоКонтекстноеМеню" id="35"/>
+					<ExtendedTooltip name="ИнгредиентыКоличествоРасширеннаяПодсказка" id="36"/>
+				</InputField>
+			</ChildItems>
+		</Table>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Объект" id="1">
+			<Type>
+				<v8:Type>cfg:CatalogObject.Продукты</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+</Form>
