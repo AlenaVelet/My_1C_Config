@@ -137,4 +137,4 @@
 
 **Связь со мной:**
 - 📱 **Telegram:** [@kisakisynia](https://t.me/kisakisynia)
-- 📧 **Email:** `mikilunat_t@mail.ru` (скопируйте адрес)
+- 📧 **Email:** `mikilunat_t@mail.ru` 
