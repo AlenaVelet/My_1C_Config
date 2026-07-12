@@ -128,9 +128,6 @@
 <a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank">
   <img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="300" style="margin: 5px;">
 </a>
-<a href="https://github.com/user-attachments/assets/854618b6-e097-400c-af0a-07978facbb27" target="_blank">
-  <img src="https://github.com/user-attachments/assets/854618b6-e097-400c-af0a-07978facbb27" width="300" style="margin: 5px;">
-</a>
 
 
 
