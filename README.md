@@ -232,7 +232,7 @@ erDiagram
 
 <table align="center">
   <tr>
-    <td align="center"><b>Рабочее пространство пользователя</b><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Рабочее пространство"/></a></td>
+    <td align="center"><b>Обработчик выбора в форме списка заказов</b><br><span style="font-size:0.85em; color:#586069;">(модуль управляемой формы)</span><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Код обработчика выбора"/></a></td>
     <td align="center"><b>Форма списка справочника</b><br><span style="font-size:0.85em; color:#586069;">(управляемая форма)</span><br><br><a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank"><img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="260" alt="Форма списка справочника"/></a></td>
     <td align="center"><b>Отчет по продажам</b><br><span style="font-size:0.85em; color:#586069;">(диаграмма СКД)</span><br><br><a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank"><img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="260" alt="Отчет по продажам диаграмма"/></a></td>
   </tr>
@@ -244,7 +244,6 @@ erDiagram
 </table>
 
 > **Примечание:** Отчет по продажам представлен в двух режимах — диаграмма и таблица.
-
 ---
 
 ## 🚀 Как развернуть и протестировать конфигурацию
