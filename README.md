@@ -219,21 +219,20 @@ erDiagram
 
 ## 🖥 Галерея интерфейса (UI Screenshots)
 
-Ниже представлены ключевые элементы интерфейса разработанного решения (нажмите на скриншот для перехода к оригиналу):
+Ниже представлены ключевые элементы интерфейса разработанного решения:
 
 <table align="center">
   <tr>
-    <td align="center"><b>Рабочее пространство пользователя</b><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Рабочее пространство"/></a></td>
-    <td align="center"><b>Управляемая форма документа</b><br><br><a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank"><img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="260" alt="Управляемая форма"/></a></td>
-    <td align="center"><b>Аналитический отчет СКД (Диаграмма)</b><br><br><a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank"><img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="260" alt="Отчет СКД Диаграмма"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Скриншот 1"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank"><img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="260" alt="Скриншот 2"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank"><img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="260" alt="Скриншот 3"/></a></td>
   </tr>
   <tr>
-    <td align="center"><b>Динамический список продаж</b><br><br><a href="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" target="_blank"><img src="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" width="260" alt="Динамический список"/></a></td>
-    <td align="center"><b>Ведение номенклатуры с фото</b><br><br><a href="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" target="_blank"><img src="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" width="260" alt="Карточка товара с фото"/></a></td>
-    <td align="center"><b>Сводный отчет по продажам (Список)</b><br><br><a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank"><img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="260" alt="Отчет СКД Список"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" target="_blank"><img src="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" width="260" alt="Скриншот 4"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" target="_blank"><img src="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" width="260" alt="Скриншот 5"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank"><img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="260" alt="Скриншот 6"/></a></td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 Как развернуть и протестировать конфигурацию
