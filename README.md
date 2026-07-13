@@ -233,6 +233,7 @@ erDiagram
     <td align="center"><br><br><a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank"><img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="260" alt="Скриншот 6"/></a></td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Как развернуть и протестировать конфигурацию
