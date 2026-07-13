@@ -232,18 +232,16 @@ erDiagram
 
 <table align="center">
   <tr>
-    <td align="center"><b>Обработчик выбора в форме списка заказов</b><br><span style="font-size:0.85em; color:#586069;">(модуль управляемой формы)</span><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Код обработчика выбора"/></a></td>
-    <td align="center"><b>Форма списка справочника</b><br><span style="font-size:0.85em; color:#586069;">(управляемая форма)</span><br><br><a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank"><img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="260" alt="Форма списка справочника"/></a></td>
-    <td align="center"><b>Отчет по продажам</b><br><span style="font-size:0.85em; color:#586069;">(диаграмма СКД)</span><br><br><a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank"><img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="260" alt="Отчет по продажам диаграмма"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" target="_blank"><img src="https://github.com/user-attachments/assets/fc954380-6581-4afe-a5b4-6ed495aac735" width="260" alt="Скриншот 1"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" target="_blank"><img src="https://github.com/user-attachments/assets/a9a04f54-74ea-4feb-9c9c-a68461fbdf81" width="260" alt="Скриншот 2"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" target="_blank"><img src="https://github.com/user-attachments/assets/09fdd9b7-3d00-4d59-96c1-25a96aaf4acc" width="260" alt="Скриншот 3"/></a></td>
   </tr>
   <tr>
-    <td align="center"><b>Список продаж</b><br><span style="font-size:0.85em; color:#586069;">(динамический список)</span><br><br><a href="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" target="_blank"><img src="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" width="260" alt="Динамический список продаж"/></a></td>
-    <td align="center"><b>Карточка номенклатуры</b><br><span style="font-size:0.85em; color:#586069;">(с фотографией)</span><br><br><a href="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" target="_blank"><img src="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" width="260" alt="Карточка товара с фото"/></a></td>
-    <td align="center"><b>Отчет по продажам</b><br><span style="font-size:0.85em; color:#586069;">(табличный вид СКД)</span><br><br><a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank"><img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="260" alt="Отчет по продажам таблица"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" target="_blank"><img src="https://github.com/user-attachments/assets/42522b66-3611-4749-ae52-282fe6da3fcc" width="260" alt="Скриншот 4"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" target="_blank"><img src="https://github.com/user-attachments/assets/749a079b-91d8-48d9-9162-552f788185ee" width="260" alt="Скриншот 5"/></a></td>
+    <td align="center"><br><br><a href="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" target="_blank"><img src="https://github.com/user-attachments/assets/fd895cba-c596-4acf-a960-bc59e916daf2" width="260" alt="Скриншот 6"/></a></td>
   </tr>
 </table>
-
-> **Примечание:** Отчет по продажам представлен в двух режимах — диаграмма и таблица.
 ---
 
 ## 🚀 Как развернуть и протестировать конфигурацию
